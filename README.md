@@ -1,12 +1,4 @@
-# 📊 COT 6405 - Sorting Algorithms Project
 
-**Course:** COT 6405 - Intro to Theory of Algorithms  
-**Term:** Spring 2023  
-**Due Date:** March 8, 11:59 PM  
-**Language:** Python  
-**Dataset:** IMDb Dataset (CSV)
-
----
 
 ## 📌 Project Overview
 
